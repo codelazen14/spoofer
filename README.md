@@ -1,4 +1,6 @@
-SecHex-Spoofy [1.5.8] Github All Releases
+Discord Lazen sHOP : https://discord.gg/4AaMWjyvn4
+
+Lazen-Spoofy [1.5.8] Github All Releases
 Simple HWID-Changer 🔑︎ Some Lines of the CLI Version are from @LockBlock-dev
 
 Windows 11 Version 10.0.22621 Build 22621 ✅
